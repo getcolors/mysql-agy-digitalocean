@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "package-mysql-agy-green": {
+      "source": "getcolors/mysql-agy",
+      "sourceType": "github",
+      "skillPath": "skills/package-mysql-agy-green/SKILL.md"
+    }
+  }
+}
