@@ -4,7 +4,8 @@
     "package-mysql-agy-green": {
       "source": "getcolors/mysql-agy",
       "sourceType": "github",
-      "skillPath": "skills/package-mysql-agy-green/SKILL.md"
+      "skillPath": "skills/package-mysql-agy-green/SKILL.md",
+      "computedHash": "53bac6bbaabe26784c171a25d511f7d52b2570843bcfcb06bcf4bf902c0c8b95"
     }
   }
 }
